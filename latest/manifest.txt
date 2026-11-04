@@ -1,15 +1,13 @@
 LR2PLUS 1
-release 336
-tag v336
+release 337
+tag v337
 date 2026-11-04
-note New: Tornado after 1st place - no Tornado for 2-5 s after being 1st (launcher, energy mode)
-note New: Dinghy lifetime - 5 s to 60 s or infinite (launcher, WEAPONS page, lobby RACE RULES)
-note Online: the host's CPU cars can use ADVANCED pathfinding (lobby CPU CARS > PATHFINDING)
-note Fix: CPU cars missing a checkpoint in Arctic 1 (advanced pathfinding)
-note Fix: the leftover SHIELD MAX row on CAR RULES page 2
-note Fix: a host crash at the end of an online race after a lagging player finished
-file LR2Gameplay.dll 1457152 73f369649efab020e68e3915e24b951ebbe7f34c4afd453f6276374d9fd09ed63c0b2f05349a9a7fee61cd2f42f8ed511b44dcfe5ec3ec9a2d45332fe29222e4 LR2Gameplay.dll
-file LR2Launcher.dll 280576 d361c5300b44af86d249f1b244f94f049a2428d811cca83203ccffbdd1ef518a63f886e911ea6e24f0bcc8ebff8ce0950e34b7b2fdcb3402e84cb1212c8b8bac LR2Launcher.dll
+note Main menu: the box is its normal size again - your profile is on the bottom line
+note Launcher: two columns (LB / RB / Tab to switch) and a Pathfinding section
+note Launcher: Restore defaults - rules, weapons, CPU, pathfinding, energy mode and fixes
+note New defaults for any of those never changed (display, sound and controls untouched)
+file LR2Gameplay.dll 1458176 930c29fd92de05e78331f380d2b5688d2d3cb2efed12908997cff44745a1eb9e86e16ba4638155abb22f0c0f56f7d34b0cc5ceb2ce0f77b744cd688b58812c06 LR2Gameplay.dll
+file LR2Launcher.dll 287744 d6a9dd8a9785c5b85462521bc1e5207301e859d279df11a52ea99b2f092e855a174547b67ba42bb03f19fd756b111f7497d52f188ea1e90f009540738f7f2fe6 LR2Launcher.dll
 file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
 file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
 end

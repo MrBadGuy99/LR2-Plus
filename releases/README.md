@@ -2,6 +2,13 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v337
+
+- Main menu: the box is its normal size again - your profile is on the bottom line
+- Launcher: two columns (LB / RB / Tab to switch) and a Pathfinding section
+- Launcher: Restore defaults - rules, weapons, CPU, pathfinding, energy mode and fixes
+- New defaults for any of those never changed (display, sound and controls untouched)
+
 ## v336
 
 - New: Tornado after 1st place - no Tornado for 2-5 s after being 1st (launcher, energy mode)
@@ -16,9 +23,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 - Fix: the host no longer freezes loading the next race when CPU cars were still racing at the end of the last one
 - Online races with CPU cars end for everyone when the players have finished
 - Online races have up to 6 cars, players and CPU cars together (v334)
-
-## v334
-
-- Fix: the host's game no longer crashes when the first car finishes an online race with CPU cars
-- Online races now have up to 6 cars, players and CPU cars together (the game's results list has 6 rows)
 
