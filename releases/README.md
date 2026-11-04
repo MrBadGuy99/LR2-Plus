@@ -2,6 +2,13 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v327
+
+- Rope bridge deck raised to meet the ground (bug bridge)
+- Menu demo can be skipped; pick-up respawn time
+- Scaled tornadoes (launcher); new energy weapon order
+- Logs upload to GitHub (launcher v94, needs a token)
+
 ## v326
 
 - GRAPHICS menu: the resolution slider is back
