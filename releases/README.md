@@ -2,6 +2,15 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v336
+
+- New: Tornado after 1st place - no Tornado for 2-5 s after being 1st (launcher, energy mode)
+- New: Dinghy lifetime - 5 s to 60 s or infinite (launcher, WEAPONS page, lobby RACE RULES)
+- Online: the host's CPU cars can use ADVANCED pathfinding (lobby CPU CARS > PATHFINDING)
+- Fix: CPU cars missing a checkpoint in Arctic 1 (advanced pathfinding)
+- Fix: the leftover SHIELD MAX row on CAR RULES page 2
+- Fix: a host crash at the end of an online race after a lagging player finished
+
 ## v335
 
 - Fix: the host no longer freezes loading the next race when CPU cars were still racing at the end of the last one
@@ -12,12 +21,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 
 - Fix: the host's game no longer crashes when the first car finishes an online race with CPU cars
 - Online races now have up to 6 cars, players and CPU cars together (the game's results list has 6 rows)
-
-## v333
-
-- New: CPU cars in online races - the host picks how many in RACE SETUP > MORE SETTINGS > CPU CARS
-- The host's machine drives them; everyone else sees them, their weapons, laps and finish
-- Advanced missiles: always forwards along the track, faster than their target once in range
-- Advanced missiles: a dinghy (any weapon) can destroy them, and their target always stops them
-- Finish positions: cars that finished ahead (CPU or player) always count, even after a stall
 
