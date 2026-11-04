@@ -2,6 +2,11 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v332
+
+- ORBIT FIX now also stops the game's own homing missiles spinning after they touch something
+- That spin was why they circled their targets: bench hits went from 25-48% to 52-83%
+
 ## v331
 
 - New, experimental: WEAPONS > MISSILE PATHFINDING: ADVANCED - homing missiles follow the track's map
@@ -21,8 +26,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 - ADVENTURE PATHFINDING: the same for the adventure's races, set separately
 - Online races: AUTODRIVE ON / OFF for your own car in the race menu (Start / Esc)
 - Launcher v96: Pathfinding, Adventure pathfinding and Pathfinding hint rows
-
-## v329
-
-- The log now records every menu cursor move and its timing, and marks moves that come too quickly to be a real press (for tracking down doubled button presses)
 
