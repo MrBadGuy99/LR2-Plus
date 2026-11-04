@@ -1,17 +1,15 @@
 LR2PLUS 1
-release 330
-tag v330
+release 331
+tag v331
 date 2026-11-04
-note New, experimental: CARS > PATHFINDING: ADVANCED - CPUs work out each track from its checkpoints
-note The first race on a track maps it (a few seconds, the race waits); it's remembered after that
-note CPU personalities: smooth, short or flat lines at random; only short-line CPUs take small shortcuts
-note PATHFINDING HINT (on): a second route along the game's CPU line - finds Xalax 1's loop
-note CPUs know the ground's grip (Arctic's ice) and keep inside the track getting back to their line
-note ADVENTURE PATHFINDING: the same for the adventure's races, set separately
-note Online races: AUTODRIVE ON / OFF for your own car in the race menu (Start / Esc)
-note Launcher v96: Pathfinding, Adventure pathfinding and Pathfinding hint rows
-file LR2Gameplay.dll 1419776 5236be767bef1aac9a6a64045203b36c3f8599dac89c283ae0c8d3dfdce57c554e78150cc77b83242147d6f771edba030826c2f0189fb2e6480c11e78713b570 LR2Gameplay.dll
-file LR2Launcher.dll 277504 3b5ea9460062eae00df6509d58c570229ca5a1d28471227f33b3c504fe008778500c1f93ae66f58ec6d9d6757d72a5d42e578992b4316869b21f4e846511fb5c LR2Launcher.dll
+note New, experimental: WEAPONS > MISSILE PATHFINDING: ADVANCED - homing missiles follow the track's map
+note They fly over the cars (MISSILE HEIGHT, 3.5 m) and pass through things until they see their target
+note Then they come down to its level and turn solid; checkpoints never stop them
+note Bench: 65-88% of advanced missiles hit their target on 4 tracks (the game's own: 25-48%)
+note The track's map is now also made for the missiles (online: in the background, no wait)
+note Launcher v97: Missile pathfinding and Missile height rows
+file LR2Gameplay.dll 1435648 0fdc95d88cd6b78fb1d449f1d7449705cfba3ab8298745bc77701e9b0d4320c51aefa294ae96f3e142afc8d9b3129da3b0dcad908ee1e680b26178d4fb84fdae LR2Gameplay.dll
+file LR2Launcher.dll 279040 2b4a046cfaffcc8b7339d33cb8efd9227f38742577e3709f612aa1ad1a73fa7f3a8590fc96fe38cebc5684bbe5233683140780c21047ab1edf1bf6838d66e992 LR2Launcher.dll
 file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
 file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
 end

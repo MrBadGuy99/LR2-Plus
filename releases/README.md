@@ -2,6 +2,15 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v331
+
+- New, experimental: WEAPONS > MISSILE PATHFINDING: ADVANCED - homing missiles follow the track's map
+- They fly over the cars (MISSILE HEIGHT, 3.5 m) and pass through things until they see their target
+- Then they come down to its level and turn solid; checkpoints never stop them
+- Bench: 65-88% of advanced missiles hit their target on 4 tracks (the game's own: 25-48%)
+- The track's map is now also made for the missiles (online: in the background, no wait)
+- Launcher v97: Missile pathfinding and Missile height rows
+
 ## v330
 
 - New, experimental: CARS > PATHFINDING: ADVANCED - CPUs work out each track from its checkpoints
@@ -16,14 +25,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 ## v329
 
 - The log now records every menu cursor move and its timing, and marks moves that come too quickly to be a real press (for tracking down doubled button presses)
-
-## v328
-
-- 1-player lobbies: ARCADE, LEAGUE and SAVED LEAGUES now open a lobby like 2 player (CPU cars, race setup, car, car stats)
-- Profile chosen at start-up, used everywhere but the adventure; B on the main menu goes back to the profile picker
-- Car stats remembered per profile in 1-player games; 2-player games start at power 1, grip 0, shield 0, no boss upgrades
-- Scaled tornadoes now scale the push and pull too, not just the lift
-- Network lobby shows LAN GAME / ONLINE GAME and each player's ping
-- Change cars in lobbies: the profile's car or one you built (MY CAR > RACE CAR, and the 1/2-player lobbies)
-- Launcher v95: Profile at start-up, 1-player lobbies, CPU cars (1 player)
 
