@@ -2,6 +2,12 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v335
+
+- Fix: the host no longer freezes loading the next race when CPU cars were still racing at the end of the last one
+- Online races with CPU cars end for everyone when the players have finished
+- Online races have up to 6 cars, players and CPU cars together (v334)
+
 ## v334
 
 - Fix: the host's game no longer crashes when the first car finishes an online race with CPU cars
@@ -14,9 +20,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 - Advanced missiles: always forwards along the track, faster than their target once in range
 - Advanced missiles: a dinghy (any weapon) can destroy them, and their target always stops them
 - Finish positions: cars that finished ahead (CPU or player) always count, even after a stall
-
-## v332
-
-- ORBIT FIX now also stops the game's own homing missiles spinning after they touch something
-- That spin was why they circled their targets: bench hits went from 25-48% to 52-83%
 
