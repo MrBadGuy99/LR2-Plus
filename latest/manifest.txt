@@ -1,13 +1,16 @@
 LR2PLUS 1
-release 327
-tag v327
+release 328
+tag v328
 date 2026-11-04
-note Rope bridge deck raised to meet the ground (bug bridge)
-note Menu demo can be skipped; pick-up respawn time
-note Scaled tornadoes (launcher); new energy weapon order
-note Logs upload to GitHub (launcher v94, needs a token)
-file LR2Gameplay.dll 1290240 6dc6f17baba9875fc0f021c47876931aa4a5fa4f7220aa43aa4e227e6e5fa781bc819552112ac5c7e34e923656fb491f9869f01975d98ec35c98cecce54ab975 LR2Gameplay.dll
-file LR2Launcher.dll 272384 ddcbfb23f75b61778a091ad7c470b8c09b9c9b5352cdbeb3fac42a704417c2df60be2cc188d2d9b8e0bda090e875c0756be7533dbf4035a8316f5322c2f33ce1 LR2Launcher.dll
+note 1-player lobbies: ARCADE, LEAGUE and SAVED LEAGUES now open a lobby like 2 player (CPU cars, race s
+note Profile chosen at start-up, used everywhere but the adventure; B on the main menu goes back to the 
+note Car stats remembered per profile in 1-player games; 2-player games start at power 1, grip 0, shield
+note Scaled tornadoes now scale the push and pull too, not just the lift
+note Network lobby shows LAN GAME / ONLINE GAME and each player's ping
+note Change cars in lobbies: the profile's car or one you built (MY CAR > RACE CAR, and the 1/2-player l
+note Launcher v95: Profile at start-up, 1-player lobbies, CPU cars (1 player)
+file LR2Gameplay.dll 1307648 90f481a75f627c7e7c23deb1df5d6dae9db9d74287dc398f673e8ea9bab727e178650709500e05597b3b2ea0531a14a8adee5083522c3de2675f8175a63d89f5 LR2Gameplay.dll
+file LR2Launcher.dll 274432 484d60be2cdfd59175476dab5cbbed9f633a5b5fc9f63329e560f0cffc703b9cc10b7f7bcfc3671962c1926deb1413a987c6215d6e8a2736c946643188b5a43a LR2Launcher.dll
 file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
 file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
 end
