@@ -2,6 +2,10 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v329
+
+- The log now records every menu cursor move and its timing, and marks moves that come too quickly to be a real press (for tracking down doubled button presses)
+
 ## v328
 
 - 1-player lobbies: ARCADE, LEAGUE and SAVED LEAGUES now open a lobby like 2 player (CPU cars, race setup, car, car stats)
@@ -18,11 +22,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 - Menu demo can be skipped; pick-up respawn time
 - Scaled tornadoes (launcher); new energy weapon order
 - Logs upload to GitHub (launcher v94, needs a token)
-
-## v326
-
-- GRAPHICS menu: the resolution slider is back
-- GRAPHICS menu: FPS LIMIT and FULL DETAIL rows
-- Logs sent automatically while testing
-- Launcher v93: TESTING section (send / collect logs)
 
