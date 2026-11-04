@@ -2,6 +2,13 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v326
+
+- GRAPHICS menu: the resolution slider is back
+- GRAPHICS menu: FPS LIMIT and FULL DETAIL rows
+- Logs sent automatically while testing
+- Launcher v93: TESTING section (send / collect logs)
+
 ## v325
 
 - Updates from GitHub, checked when the launcher opens

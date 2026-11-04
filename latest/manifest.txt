@@ -1,13 +1,13 @@
 LR2PLUS 1
-release 325
-tag v325
-date 2026-11-03
-note Updates from GitHub, checked when the launcher opens
-note Only files signed with the LR2 Plus key are installed
-note v324: MORE SETTINGS in the lobbies (CPU cars, weather...)
-note v323: the 2-player splitscreen lobby
-file LR2Gameplay.dll 1263616 68fe760752bbad66a9e825fdf531ffedfbef6a8d86dc14f6b5b24bf2d8fcb356f2ec7b93347c303d28281366d37d2f6283e787c2242af1595309f50c90a84475 LR2Gameplay.dll
-file LR2Launcher.dll 256512 48fc03966ac42e880011134754888e399a58095d7fff17ea21906694b2f2d1801de72c2e94df95110c7803247f5863007051dcbb5559fddee4507d3b9cfbf2d0 LR2Launcher.dll
+release 326
+tag v326
+date 2026-11-04
+note GRAPHICS menu: the resolution slider is back
+note GRAPHICS menu: FPS LIMIT and FULL DETAIL rows
+note Logs sent automatically while testing
+note Launcher v93: TESTING section (send / collect logs)
+file LR2Gameplay.dll 1282560 67e3cd7994b1a5ca3909b9550f69309dd1e247bc19de0d597d793b1163e6026fcb985ec2b0fdef1e5289e70e275b81520acb299d19f148bc914fff392161a8a1 LR2Gameplay.dll
+file LR2Launcher.dll 257536 1b36df1167f4b3ae84946e752ec6096059864b93088b88456bd778e28edb7b10548eda2a9261aeb4fcec63b2f38488f72c84ca4e300a09d5754b375fe750a8aa LR2Launcher.dll
 file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
 file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
 end
