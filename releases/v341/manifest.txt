@@ -1,0 +1,11 @@
+LR2PLUS 1
+release 341
+tag v341
+date 2026-11-05
+note Track editor: a proper editor screen - menus, tools, panels, palette, dialogs; just your car in its
+note Test your track alone or race it with CPU cars; custom tracks no longer wait for the CPU map
+file LR2Gameplay.dll 1631744 ec07497d8ca30ed9e22d4b181e389da693d4c438093642f1bbd3b00a1ee9ab8274d71c6dd5e36c74fa0d3f4e474b0739933ebe2c0942c7495843f982ff1f269b LR2Gameplay.dll
+file LR2Launcher.dll 406016 e9c8091f2b84c16af98701a9ec9e77ed2020a4bebfb28782ebb6fe5c56e29c71b26ce3fc9084f49cc27dd7a4023165f67ef8738f9842c8dc5557da8bc105ca10 LR2Launcher.dll
+file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
+file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
+end
