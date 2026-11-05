@@ -1,0 +1,13 @@
+LR2PLUS 1
+release 339
+tag v339
+date 2026-11-05
+note Track editor: F3 in any race - checkpoints, start grid, objects, CPU lines, test drives
+note Track editor: save as many versions as you like, load them, tag objects, your own keys and look
+note Custom tracks: play them from CHOOSE WORLD > CUSTOM TRACKS (arcade, time attack)
+note Launcher: Ctrl+Shift+D customises it - move, rename, hide, colours, new rows, undo, save / load
+file LR2Gameplay.dll 1600000 1afdca183055c0b5b07ff3c65fe623cee595d0d61367ebd22c2723d52d81a7ed9c6ef5371922721dffbe29be8f84c743d38ffd37fc8d7bec72a83f49651034c6 LR2Gameplay.dll
+file LR2Launcher.dll 406016 e9c8091f2b84c16af98701a9ec9e77ed2020a4bebfb28782ebb6fe5c56e29c71b26ce3fc9084f49cc27dd7a4023165f67ef8738f9842c8dc5557da8bc105ca10 LR2Launcher.dll
+file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
+file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
+end

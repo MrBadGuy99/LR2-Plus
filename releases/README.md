@@ -2,6 +2,13 @@
 
 The newest is in `latest/`; the launcher downloads its files from the folder named by its tag.
 
+## v339
+
+- Track editor: F3 in any race - checkpoints, start grid, objects, CPU lines, test drives
+- Track editor: save as many versions as you like, load them, tag objects, your own keys and look
+- Custom tracks: play them from CHOOSE WORLD > CUSTOM TRACKS (arcade, time attack)
+- Launcher: Ctrl+Shift+D customises it - move, rename, hide, colours, new rows, undo, save / load
+
 ## v338
 
 - Menu editor: press F4 in a menu to change it - move, rename, add, remove, hide items
@@ -15,13 +22,4 @@ The newest is in `latest/`; the launcher downloads its files from the folder nam
 - Launcher: two columns (LB / RB / Tab to switch) and a Pathfinding section
 - Launcher: Restore defaults - rules, weapons, CPU, pathfinding, energy mode and fixes
 - New defaults for any of those never changed (display, sound and controls untouched)
-
-## v336
-
-- New: Tornado after 1st place - no Tornado for 2-5 s after being 1st (launcher, energy mode)
-- New: Dinghy lifetime - 5 s to 60 s or infinite (launcher, WEAPONS page, lobby RACE RULES)
-- Online: the host's CPU cars can use ADVANCED pathfinding (lobby CPU CARS > PATHFINDING)
-- Fix: CPU cars missing a checkpoint in Arctic 1 (advanced pathfinding)
-- Fix: the leftover SHIELD MAX row on CAR RULES page 2
-- Fix: a host crash at the end of an online race after a lagging player finished
 
