@@ -1,10 +1,10 @@
 LR2PLUS 1
-release 340
-tag v340
+release 343
+tag v343
 date 2026-11-05
-note Track builder in the main menu: new track (pick the world, start empty or from a copy), edit a save
-note Every builder screen can be changed with the menu editor (F4)
-file LR2Gameplay.dll 1607168 ac9d00c1b550a18986ff5fe0c1dcfcfe438c1b1709acd8f94c0249f2ad1707c9bd2b3842cc75ddf767e1059564240258fd589fd41a499c938f0d1b96cfb2dbf1 LR2Gameplay.dll
+note Fix: a dinghy fired backwards could hit your own car as it fired (with 'own dinghy hits you' on)
+note Your own dinghy now only hits you when it has flown away and come back
+file LR2Gameplay.dll 1637376 3229d4e23a2df275cb263ae03214b05fe68252baac63df5eb52028e2d15c5ebec1188f7aac8f49815e6090d24ec7c9c6e2d2d207de2ac4492ce91d7ab4bd4bb6 LR2Gameplay.dll
 file LR2Launcher.dll 406016 e9c8091f2b84c16af98701a9ec9e77ed2020a4bebfb28782ebb6fe5c56e29c71b26ce3fc9084f49cc27dd7a4023165f67ef8738f9842c8dc5557da8bc105ca10 LR2Launcher.dll
 file d3d8.dll 121856 6d5f95982d535591c20a3c7db3b41e15c4510de386576b960b39fbff2645ee654b8313db44be1c8f451ff5d21ffd6cd535186e4b9c7a59d3ea44e5a5034f0056 d3d8.dll lrd8.dll
 file dinput8.dll 94208 75884452cd97b6c95afde38c24cb4e51ff84e4b1985a61dbbb067f0636d1084d3983d1a3ee0fe15a5c6d2bf04e2653e8852c8e1bd3f9f2deb584e3c653b7dd43 dinput8.dll lrinput.dll
